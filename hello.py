@@ -1,5 +1,5 @@
 def get_message() -> str:
-	return "Hello from Git-Explained!" #change to break the Test :D
+	return "Hello fromt-Explained!" #change to break the Test :D
 
 
 def get_status_message() -> str:
