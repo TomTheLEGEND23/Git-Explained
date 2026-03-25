@@ -12,5 +12,4 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-	print("Kijk! Een aanpassing\n")
 	main()
